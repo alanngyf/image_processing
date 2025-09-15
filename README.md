@@ -1,4 +1,4 @@
-### project setup
+# project setup
 
 ## create virtual env, and install relevant packages
 conda create -n image_processing_main python=3.12
